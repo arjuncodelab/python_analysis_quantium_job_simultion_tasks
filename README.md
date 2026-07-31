@@ -1,5 +1,4 @@
 # Python Analysis Quantium Job Simulation 
----
 ### Task One: Data preparation and customer analytics.
 - Conduct analysis on your client's transaction dataset and identify customer purchasing behaviors to generate insights and provide commercial recommendations.
 ##### What I did
