@@ -14,9 +14,9 @@ Key Technical Highlights
  * Optimized data types (downcasting integers, converting strings to categorical data types), reducing memory footprint by 50.8% (from 24.2\text{ MB} \rightarrow 11.9\text{ MB}).
 2. Control Store Selection Methodology (Task 2)
 Control stores were matched to Trial Stores (77, 86, and 88) using pre-trial historical data (July 2018 – January 2019). Similarity was calculated using a weighted composite score:
- * Trial Store 77 \rightarrow Matched with Control Store 233
- * Trial Store 86 \rightarrow Matched with Control Store 155
- * Trial Store 88 \rightarrow Matched with Control Store 237
+ * Trial Store 77 -> Matched with Control Store 233
+ * Trial Store 86 -> Matched with Control Store 155
+ * Trial Store 88 -> Matched with Control Store 237
 Key Business Results & Trial Impact
 ```
 +-------------+-----------------+-------------------------+-----------------------------------------------------+
