@@ -18,6 +18,7 @@ Control stores were matched to Trial Stores (77, 86, and 88) using pre-trial his
  * Trial Store 86 \rightarrow Matched with Control Store 155
  * Trial Store 88 \rightarrow Matched with Control Store 237
 Key Business Results & Trial Impact
+---
 +-------------+-----------------+-------------------------+-----------------------------------------------------+
 | Trial Store | Matched Control | Avg Monthly Revenue Lift| Key Growth Driver                                   |
 +-------------+-----------------+-------------------------+-----------------------------------------------------+
@@ -25,7 +26,7 @@ Key Business Results & Trial Impact
 | Store 86    | Store 155       | +8.4%                   | Moderate increase in transaction volume             |
 | Store 88    | Store 237       | +13.2%                  | Sustained increase in traffic & total units sold    |
 +-------------+-----------------+-------------------------+-----------------------------------------------------+
-
+---
  * Footfall Expansion: Across all trial stores, revenue growth was primarily driven by an increase in unique customer traffic rather than spend per transaction.
  * Store Layout Success: Trial Store 77 and Trial Store 88 demonstrated consistent, positive lift across key performance metrics throughout the 5-month trial period.
 Tech Stack & Libraries
