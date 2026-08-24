@@ -29,7 +29,8 @@ Key Business Results & Trial Impact
 ```
  * Footfall Expansion: Across all trial stores, revenue growth was primarily driven by an increase in unique customer traffic rather than spend per transaction.
  * Store Layout Success: Trial Store 77 and Trial Store 88 demonstrated consistent, positive lift across key performance metrics throughout the 5-month trial period.
-Tech Stack & Libraries
+---
+#### Tech Stack & Libraries
  * Language: Python 3.x
  * Data Wrangling: Pandas, NumPy
  * Statistical Analysis: SciPy (scipy.stats)
