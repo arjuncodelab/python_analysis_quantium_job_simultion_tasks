@@ -5,6 +5,9 @@
    - Analyze transaction and customer data to identify trends and inconsistencies. 
    - Develop metrics and examine sales drivers to gain insights into overall sales performance. 
    - Create visualizations and prepare findings to formulate a clear recommendation for the client's strategy.
+   - **Raw Transactions --> Data Cleaning --> Customer Segmentation -> Sales Analysis -> Statistical Testing -> Product Preference -> Business Recommendation**
+
+This demonstrates how transaction-level data can be transformed into customer and product insights that can support further business investigation.
 ---
 ### Task Two: Experimentation and uplift testing.
 - Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
